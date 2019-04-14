@@ -1,1 +1,1 @@
-I used pure Javascript. 
+This short project has been written in Vanilla JS.
