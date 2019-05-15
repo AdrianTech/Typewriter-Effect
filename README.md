@@ -3,4 +3,4 @@
 
 <strong>Description:</strong>
 <p>A kind of typewriter effect. To See more, click on the link below </p>
-<a href="https://adriantech.github.io/typewriter-effect/"></a>
+<a href="https://adriantech.github.io/typewriter-effect/">Typewriter effect</a>
