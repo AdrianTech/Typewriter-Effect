@@ -1,1 +1,2 @@
-This short project has been written in Vanilla JS.
+<bold>Technology stack:</bold>
+<ul><li>VanillaJS</li></ul>
