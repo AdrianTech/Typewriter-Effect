@@ -1,13 +1,3 @@
-<strong>Technology stack:</strong>
-<ul><li>VanillaJS</li>
-  <li>CSS</li>
-  <li>HTML</li>
-</ul>
-
-<strong>Description:</strong>
-<p> </p>
-<a href="" target="_blank">Typewriter effect</a>
-
 ### Technology stack
  - HTML
  - CSS
