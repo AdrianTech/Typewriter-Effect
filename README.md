@@ -5,5 +5,14 @@
 </ul>
 
 <strong>Description:</strong>
-<p>A kind of typewriter effect. To see more, click on the link below </p>
-<a href="https://adriantech.github.io/typewriter-effect/" target="_blank">Typewriter effect</a>
+<p> </p>
+<a href="" target="_blank">Typewriter effect</a>
+
+### Technology stack
+ - HTML
+ - CSS
+ - VanillaJS (ES6)
+ 
+#### Description
+A kind of typewriter effect. To see more, click on the link below...
+#### [Typewriter effect](https://adriantech.github.io/typewriter-effect/)
